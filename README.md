@@ -1,2 +1,2 @@
 # dwm-dotfiles
-dots for my dwm rice
+Dots for my dwm rice </br>
